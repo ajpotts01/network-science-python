@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+jupyter = "*"
+networkx = {extras = ["default"], version = "*"}
+matplotlib = "*"
+seaborn = "*"
+scikit-network = "*"
+nltk = "*"
+setuptools = "*"
+wheel = "*"
+spacy = "*"
+scikit-learn = "*"
+karateclub = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.13"
