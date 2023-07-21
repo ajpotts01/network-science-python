@@ -16,6 +16,8 @@ wheel = "*"
 spacy = "*"
 scikit-learn = "*"
 karateclub = "*"
+lxml = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
