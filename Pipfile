@@ -18,6 +18,7 @@ scikit-learn = "*"
 karateclub = "*"
 lxml = "*"
 beautifulsoup4 = "*"
+black = "*"
 
 [dev-packages]
 
