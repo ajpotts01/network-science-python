@@ -19,6 +19,7 @@ karateclub = "*"
 lxml = "*"
 beautifulsoup4 = "*"
 black = "*"
+newspaper3k = "*"
 
 [dev-packages]
 
